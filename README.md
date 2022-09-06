@@ -1,7 +1,7 @@
 # Research On Car Sales Ads
 
 ## Project Description
-You are an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
+Hundreds of free advertisements for vehicles are published on Crankshaft List site every day. As an analyst, you need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 **Data Source:** [Practicum by Yandex.](https://www.practicum100.com/)  
 I do not have the permission to share this dataset.
